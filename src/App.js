@@ -59,7 +59,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
-          <h2>Cryptocurrency Energy Consumption Visualization</h2>
+          <h2>The Energy Consumption Visualization of Cryptocurrencies</h2>
         </div>
         <div className="container">
           <div className="nav">
