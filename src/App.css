@@ -1,10 +1,8 @@
 .container {
-  margin: 0 15px;
   padding: 5px;
 }
 
 .nav {
-  margin: 2em auto;
   display: inline-block;
 }
 
@@ -20,11 +18,11 @@
 }
 
 .nav .btn-highchart {
-  background: #508CC8;
+  background: darkslategray;
 }
 
 .nav .btn-highchart:focus, .nav .btn-highchart:hover, .nav .btn-highchart.active {
-  background: #3F51B5;
+  background: darkolivegreen;
 }
 /* Default style */
 
@@ -38,10 +36,10 @@
 }
 
 .App-header {
-  background-color: #222;
+  background-color: white;
   height: 100px;
   padding: 20px;
-  color: white;
+  color: black;
 }
 
 .App-intro {
