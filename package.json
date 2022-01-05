@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "gh-pages": "^2.0.1",
-    "react-scripts": "^3.0.1"
+    "gh-pages": "^2.0.1"
   },
   "dependencies": {
     "d3": "^4.13.0",
+    "react-scripts": "^3.0.1",
     "highcharts": "^7.1.2",
     "lodash": "^4.17.13",
     "react": "^16.8.6",
