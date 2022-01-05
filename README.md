@@ -1,5 +1,5 @@
 # Cryptocurrency Energy Consumption Visualization
-The consumption demo is deployed on Heroku. The link is [here](https://cecv.herokuapp.com/)
+The consumption demo is deployed on Heroku. The link is [here](https://cec-siqi.herokuapp.com/)
 
 ### What is this project?
 
